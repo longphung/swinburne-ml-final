@@ -1,6 +1,8 @@
 # Swinburne Machine Learning Final Project - Team 7
 
-Repo for hosting Swinburne's machine learning final assignment. Git LFS is temporarily opened with max 1Gb bandwidth and max size, which will be removed later on.
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+Repository for hosting Swinburne's machine learning final assignment. Git LFS is temporarily opened with max 1Gb bandwidth and max size, which will be removed later on.
 
 ## Getting Started
 
